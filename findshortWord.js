@@ -18,5 +18,5 @@ function findShort(s){
 
 function fuzzbuzz(num) {
 
-  return num
+  return sum +num
 }
