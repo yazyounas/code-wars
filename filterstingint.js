@@ -11,6 +11,6 @@ function filter_list(l) {
         filteredList.push(l[i])
       }
     }
-    return filteredList
+    return filtered
     
      }
