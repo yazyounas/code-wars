@@ -16,3 +16,6 @@ function findShort(s){
     return shortLength
   }
 
+function fuzzbuzz() {
+  
+}
