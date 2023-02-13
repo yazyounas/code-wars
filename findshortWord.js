@@ -4,7 +4,7 @@
 
 function findShort(s){
   
-    let word = s.split(' ');
+    let word = s.split('');
     
     let shortLength = Infinity
     
